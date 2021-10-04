@@ -31,7 +31,7 @@ const Header = () => {
                             activeStyle={{
                                 fontWeight: "bold",
                                 color: "red"
-                            }} className=" color  p-3 text-decoration-none fw-bold fs-5" to="/about">About Us 2</NavLink>
+                            }} className=" color  p-3 text-decoration-none fw-bold fs-5" to="/about">About Us</NavLink>
                     </Nav.Item>
                     <Nav.Item className="p-2">
                         <NavLink
