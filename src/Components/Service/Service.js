@@ -11,6 +11,7 @@ const Service = () => {
     }, [])
     return (
         <div className="container">
+            <h1 className="text-success m-4"> Our Available Courses</h1>
             <Row xs={1} md={3} className="g-4">
                 {
                     subjacts.map(subjact => <Item item={subjact}></Item>)

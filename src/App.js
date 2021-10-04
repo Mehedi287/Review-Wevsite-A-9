@@ -9,6 +9,7 @@ import About from './Components/About/About';
 import Service from './Components/Service/Service';
 import Tutor from './Components/Tutor/Tutor';
 import Notfound from './Components/NotFound/Notfound';
+import Contact from './Components/Contact/Contact';
 
 function App() {
   return (
@@ -28,8 +29,8 @@ function App() {
           <Route path="/service">
             <Service></Service>
           </Route>
-          <Route path="/tutors">
-            <Tutor></Tutor>
+          <Route path="/contact">
+            <Contact></Contact>
           </Route>
           <Route path="*">
             <Notfound></Notfound>

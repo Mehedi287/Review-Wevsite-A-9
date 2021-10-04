@@ -11,7 +11,7 @@ const Home = () => {
             .then(data => setSubjacts(data))
     }, [])
     return (
-        <div className='container '>
+        <div className='container m-5'>
             <div className="row p-3">
                 <div className="col-md-6">
                     <h3 className="text-primary">Learn online from the leaders in business education</h3>
