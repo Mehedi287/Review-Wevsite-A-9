@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Carousel, Col, Row } from 'react-bootstrap';
+import { Row } from 'react-bootstrap';
 import { useEffect, useState } from "react";
 import Item from "../Item/Item"
 

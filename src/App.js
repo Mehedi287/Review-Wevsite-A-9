@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Components/Header/Header';
@@ -7,7 +7,7 @@ import Footer from './Components/Footer/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import About from './Components/About/About';
 import Service from './Components/Service/Service';
-import Tutor from './Components/Tutor/Tutor';
+
 import Notfound from './Components/NotFound/Notfound';
 import Contact from './Components/Contact/Contact';
 

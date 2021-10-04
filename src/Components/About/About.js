@@ -23,7 +23,7 @@ const About = () => {
                 </div>
 
             </div>
-            <hr />
+            <hr />  
             <div className="">
                 <h2>About Our Courses</h2>
                 <p>CORe consists of three courses—Business Analytics, Economics for Managers, and Financial Accounting —and a final exam. Immerse yourself in real challenges faced by seasoned leaders across a variety of industries, develop business intuition through interactive learning exercises, and join a global community of peers. As in the business world, you’ll be evaluated on the quality and timeliness of your work and your contributions to the learning community.</p>
